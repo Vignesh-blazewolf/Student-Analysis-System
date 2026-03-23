@@ -4,3 +4,5 @@
 The Student Analysis System is a structured SQL mini project designed to analyze and extract meaningful insights from student data. This project simulates real-world data analysis scenarios by working with a dataset containing student details such as names, cities, and marks.
 
 Using fundamental and intermediate SQL concepts, the project performs various analytical operations including filtering, sorting, grouping, and aggregation. It helps in identifying top-performing students, calculating average scores, and generating city-wise performance reports.
+
+**Key Features**
