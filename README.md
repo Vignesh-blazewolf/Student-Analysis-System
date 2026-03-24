@@ -23,6 +23,7 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Improved problem-solving using SQL
 
 **Use Case**
+
 This project is ideal for:
 --> Beginners learning SQL
 --> Students building a data analytics portfolio
