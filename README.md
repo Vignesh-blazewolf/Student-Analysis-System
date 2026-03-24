@@ -17,3 +17,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> SQL (Structured Query Language)
 
 **Learning Outcomes**
+--> Strong understanding of SQL fundamental
