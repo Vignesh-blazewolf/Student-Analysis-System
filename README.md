@@ -7,3 +7,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 
 **Key Features**
 --> Retrieve and filter student records
+--> Identify top and low performers
