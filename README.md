@@ -10,3 +10,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Identify top and low performers
 --> Perform city-wise analysis using GROUP BY
 --> Use aggregate functions like AVG, SUM, COUNT
+--> Apply HAVING for grouped data filtering
