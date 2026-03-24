@@ -6,3 +6,4 @@ The Student Analysis System is a structured SQL mini project designed to analyze
 Using fundamental and intermediate SQL concepts, the project performs various analytical operations including filtering, sorting, grouping, and aggregation. It helps in identifying top-performing students, calculating average scores, and generating city-wise performance reports.
 
 **Key Features**
+--> Retrieve and filter student records
