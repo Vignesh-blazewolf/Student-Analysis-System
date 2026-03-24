@@ -26,3 +26,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 This project is ideal for:
 --> Beginners learning SQL
 --> Students building a data analytics portfolio
+--> Practicing real-world database queries
