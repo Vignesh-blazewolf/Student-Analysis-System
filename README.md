@@ -21,3 +21,5 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Hands-on experience with real-world queries
 --> Ability to analyze and interpret data
 --> Improved problem-solving using SQL
+
+**Use Case**
