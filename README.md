@@ -15,3 +15,5 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 
 **Technologies Used**
 --> SQL (Structured Query Language)
+
+**Learning Outcomes**
