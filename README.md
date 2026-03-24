@@ -9,3 +9,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Retrieve and filter student records
 --> Identify top and low performers
 --> Perform city-wise analysis using GROUP BY
+--> Use aggregate functions like AVG, SUM, COUNT
