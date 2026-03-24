@@ -24,3 +24,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 
 **Use Case**
 This project is ideal for:
+--> Beginners learning SQL
