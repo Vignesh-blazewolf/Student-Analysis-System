@@ -11,3 +11,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Perform city-wise analysis using GROUP BY
 --> Use aggregate functions like AVG, SUM, COUNT
 --> Apply HAVING for grouped data filtering
+--> Implement subqueries for advanced insights
