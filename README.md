@@ -14,4 +14,4 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Implement subqueries for advanced insights
 
 **Technologies Used**
-
+--> SQL (Structured Query Language)
