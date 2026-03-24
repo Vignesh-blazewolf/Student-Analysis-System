@@ -12,3 +12,6 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Use aggregate functions like AVG, SUM, COUNT
 --> Apply HAVING for grouped data filtering
 --> Implement subqueries for advanced insights
+
+**Technologies Used**
+
