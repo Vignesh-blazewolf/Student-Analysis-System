@@ -22,6 +22,14 @@ Using fundamental and intermediate SQL concepts, the project performs various an
 --> Ability to analyze and interpret data
 --> Improved problem-solving using SQL
 
+**AUTHOR**
+
+**VIGNESHWARAN**
+
+Aspiring **FULL STACK DEVELOPER**
+
+Passionate about software development, databases, and building scalable applications.
+
 **Use Case**
 
 This project is ideal for:
